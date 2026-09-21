@@ -1,0 +1,10 @@
+{
+  "name": "ritik-dandir-engineering-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {"node": ">=20.19.0"},
+  "scripts": {"dev": "vite --host 0.0.0.0", "build": "vite build", "start": "node server.js", "preview": "vite preview"},
+  "dependencies": {"@vitejs/plugin-react": "latest", "express": "latest", "vite": "latest", "react": "latest", "react-dom": "latest"},
+  "devDependencies": {}
+}
